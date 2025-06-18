@@ -7,7 +7,7 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-Danielle is currently a graduate student at the Univeristy of Massachusetts, Amherst working under the supervision of Dr. Rob DeConto. Presently, she is researching the Greenland Ice Sheet's stability during the Holocene 
+Danielle is currently a graduate student at the Univeristy of Massachusetts, Amherst working under the supervision of Dr. Rob DeConto. Presently, she is researching the Greenland Ice Sheet's stability during the Holocene (12,000 years ago to present).
 
 Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
