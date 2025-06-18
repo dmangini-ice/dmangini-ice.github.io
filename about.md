@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profilepic_about.jpg "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
 Danielle is currently a graduate student at the Univeristy of Massachusetts, Amherst working under the supervision of Dr. Rob DeConto. Presently, she is researching the Greenland Ice Sheet's stability during the Holocene (12,000 years ago to present).
 
