@@ -13,7 +13,7 @@ During 2023-2024, Danielle worked with Dr. Mathieu Morlighem at Dartmouth Colleg
 
 Before Darmouth College, Danielle graduated Cum Laude from Cornell University in Earth and Atmospheric Sciences and a minor in Environment and Sustainability.
 
-Outside of science, Danielle loves to knit, crochet, hike, ski, and swim all while traveling.
+At UMass, she is the social media "guy" for the Geoscience Graduate Student Organization and also plays volleyball with others in her department. Outside of science, Danielle loves to knit, crochet, hike, ski, and swim all while traveling.
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
