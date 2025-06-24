@@ -7,7 +7,7 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/ZoomedDanielleAlaska.gif "Profile Picture"){:.profile}
 
-Danielle is currently a graduate student at the Univeristy of Massachusetts, Amherst working under the supervision of [Dr. Rob DeConto](url:https://www.umass.edu/earth-geography-climate/about/directory/robert-m-deconto). Presently, she is researching the Greenland Ice Sheet's stability during the Holocene (12,000 years ago to present).
+Danielle is currently a graduate student at the Univeristy of Massachusetts, Amherst working under the supervision of [Dr. Rob DeConto](https://www.umass.edu/earth-geography-climate/about/directory/robert-m-deconto). Presently, she is researching the Greenland Ice Sheet's stability during the Holocene (12,000 years ago to present).
 
 During 2023-2024, Danielle worked with Dr. Mathieu Morlighem at Dartmouth College where she investigated topographic uncertainty beneath the Antarctic Ice Sheet and how that uncertainty relates towards future sea level projections.
 
