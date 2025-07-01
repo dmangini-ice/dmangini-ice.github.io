@@ -5,7 +5,7 @@ permalink: /projects/
 main_nav: true
 ---
 
-<p>This page is dedicated towards the projects that Danielle is currently working on</p>
+<p>Current Projects at UMass</p>
 
 <hr>
 
