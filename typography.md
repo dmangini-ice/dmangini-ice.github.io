@@ -9,8 +9,6 @@ main_nav: true
 
 <hr>
 
-<h1 id="headings">Headings</h1>
-
 <h1>h1. ahhh</h1>
 <h2>h2. Heading</h2>
 <h3>h3. Heading</h3>
