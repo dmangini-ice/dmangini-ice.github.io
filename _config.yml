@@ -77,7 +77,7 @@ descriptions:
 #     share: true                           # Include in the "Share" section of posts
 social:
   - name: Instagram
-    icon: Instagram
+    icon: instagram
     username: ohshift.climate
     url: https://twitter.com/ohshift.climate
     desc: Follow me on Instagram
