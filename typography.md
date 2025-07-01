@@ -9,7 +9,8 @@ main_nav: true
 
 <hr>
 
-<h1>h1. ahhh</h1>
+<h1>GreenDrill</h1>
+<p>The first chapter of my thesis </p>
 <h2>h2. Heading</h2>
 <h3>h3. Heading</h3>
 <h4>h4. Heading</h4>
