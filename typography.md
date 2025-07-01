@@ -11,11 +11,11 @@ main_nav: true
 
 <h1>GreenDrill</h1>
 <p>The first chapter of my thesis </p>
-<h2>h2. Heading</h2>
-<h3>h3. Heading</h3>
-<h4>h4. Heading</h4>
-<h5>h5. Heading</h5>
-<h6>h6. Heading</h6>
+
+<hr>
+
+<h1>NAO Patterns for the past 1,000 years</h1>
+<p>The first chapter of my thesis </p>
 
 <hr>
 
