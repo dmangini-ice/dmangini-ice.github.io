@@ -16,3 +16,4 @@ main_nav: true
 <hr>
 
 <h1>Bed Topography Uncertainty</h1>
+<p>Understanding the uncertainty associated with bed topography beneath Antarctica. Quantifying what this uncertainty looks like based off of different perturbations on the bed topography from the discrete wavelet transform. Gathering where the most uncertainty lies and what size bumps start to make sea level prjections deviate from BedMachine Anarctica</p>
