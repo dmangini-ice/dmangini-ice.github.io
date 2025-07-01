@@ -5,10 +5,6 @@ permalink: /projects/
 main_nav: true
 ---
 
-<h1>Current Projects at UMass</h1>
-
-<hr>
-
 <h2>GreenDrill</h2>
 <p>The first chapter of my disertation is understanding the stability of Northern Greenland during the Holocene</p>
 
