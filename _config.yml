@@ -76,11 +76,11 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
+  - name: Instagram
+    icon: Instagram
+    username: ohshift.climate
+    url: https://twitter.com/ohshift.climate
+    desc: Follow me on Instagram
     share: true
 
   - name: Facebook
