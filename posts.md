@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "CryoChick"
-permalink: /CryoChick/
+title: "posts"
+permalink: /posts/
 main_nav: true
 ---
 
