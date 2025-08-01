@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "CryoChick"
+title:  "Welcome"
 date:   2025-07-09T14:25:52-05:00
 author: Danielle Mangini
-categories: Welcome
+categories: CryoChick
 ---
 
 Hi all! Welcome to my science blog - CryoChick. Here I will be showing you all the trips I have gone on as a scientist. I will also show some of my research that I have been working on as a PhD student at the University of Massachusetts Amherst. Please follow along if you want to see my journey of becoming a research professor!
